@@ -1,0 +1,50 @@
+홈페이지 만들기 학습 플랜
+
+1. 자체 학습계획
+생활코딩 사이트 이용
+https://www.opentutorials.org/
+영상은  < 무료코딩 학습 유튜브 생활코딩 > 이용
+
+https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA
+
+우선 배워야 할 것 정리
+
+- 코딩 개발툴 vscode ( visual studio code )
+- 버전관리 github 
+
+2. 생활코딩 학습순서 ( 이건 별도의 리파지토리에 기록 )
+
+
+예) 10.29(금) 22:30 수업시작 생활채널 vscode 
+
+3. 코딩 커리큘럼 (타 사이트 참조함) 2021.12.31 까지
+
+- 웹개발 기초(5주) + 실전 프로젝트(3주)
+    [1주차] 눈에 보이는 부분 - 웹페이지 만들기
+      > HTML, CSS, Javascript
+
+    [2주차] 연결하기 - 서버와 통신하기
+      > JQuery, Ajax
+
+    [3주차] 파이썬, 데이터베이스 다루기
+      > Python, mongoDB, 크롤링
+
+    [4주차] 내 컴퓨터에서 서버 돌리기
+      > Flask, API
+
+    [5주차] 인터넷에서 서버 돌리기
+      > Flask, AWS 배포
+
+    [6~8주차] 튜터와 함께! 나만의 프로젝트 배포
+      > 웹사이트 기획부터 배포까지
+
+Web Coding Basic 과정 소개
+HTML5와 CSS3 개요와 환경 구성 방법을 학습하고 HTML5 Tags, CSS3 Properties를 통해 웹 페이지 제작을 학습합니다.
+
+과정목표
+* 		기본적인 웹 언어에 대해 이해하고 HTML5와 CSS3의 개요와 환경구성 방법을 학습합니다.
+* 		HTML5 Tags, CSS3 Properties에 대해 학습하고 다양한 실습을 통해 HTML 태그의 사용 방법과 CSS 스타일의 각 속성을 활용하는 방법을 습득합니다.
+* 		HTML5와 CSS3를 사용한 웹 페이지 제작을 통해 웹 서비스 사용자 환경 구현을 실습합니다.
+
+
+
